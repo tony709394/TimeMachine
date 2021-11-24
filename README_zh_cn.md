@@ -1,32 +1,32 @@
 <p align="center"><img src="https://raw.githubusercontent.com/tony709394/TimeMachine/main/Images/logo.png" align="center" width="175"></p>
-
 <h1 align="center">TimeMachine</h1>
 
-Language: English | [中文简体](README_zh_cn.md)
+语言: [English](README.md) | 中文简体
 
-## What is TimeMachine ?
+## TimeMachine 是什么 ?
 
 A History tool for Godot 3D transformation. Control TimeMachine and let your model state switch between present and past.
+Godot 历史记录工具，用于 3D 变换。控制时光机，让你的模型状态，在现在和过去之间切换。
 
-## Features
+## 特性
 
 - xxxxxxxxx
 
-## Install
+## 安装
 
-> Godot 3.0+ is supported.
+> 支持 Godot 3.0+
 
-- Download this repository
+- 下载这个仓库
 
-- Copy the directory named TimeMachine into your project
+- 复制 TimeMachine 目录 至 你的项目目录
 
-- In the Godot editor, select "Project -> Project Settings -> AutoLoad"
+- 在 Godot 编辑器中，选择 "项目 -> 项目管理 -> 自动加载"
 
-- Add a script named TimeMachine.gd
+- 添加脚本 TimeMachine.gd
 
 <p align="center"><img src="https://raw.githubusercontent.com/tony709394/TimeMachine/main/Images/autoload.png" align="center"></p>
 
-## Examples
+## 示例
 
 ```
 xxxxxxxxx
@@ -36,13 +36,13 @@ xxxxxxxxx
 
 ### xxxxxxxxx
 
-- Description: xxxxxxxxx.
+- 描述: xxxxxxxxx。
 
-- Output: `xxxxxxxxx`
+- 输出: `xxxxxxxxx`
 
-- Input: `xxxxxxxxx`
+- 输入: `xxxxxxxxx`
 
-- Usage:
+- 用法:
 
 ```
 xxxxxxxxx
