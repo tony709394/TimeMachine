@@ -5,7 +5,6 @@
 
 ## TimeMachine 是什么 ?
 
-A History tool for Godot 3D transformation. Control TimeMachine and let your model state switch between present and past.
 Godot 历史记录工具，用于 3D 变换。控制时光机，让你的模型状态，在现在和过去之间切换。
 
 ## 特性
